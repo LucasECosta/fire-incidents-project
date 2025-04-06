@@ -127,13 +127,10 @@ You can also find this query saved in `/reports/report_fire_incidents_by_distric
 
 ---
 
-## Final considerations
+## 🙋‍♂️ Autor
 
-I decided to focus only on what was essential for the challenge, without adding extra features like seeds or snapshots, since they were not required for the main objective.
-
-The entire solution was designed to ensure clean, organized, and accessible data, following good data engineering practices.
-
----
-Feel free to reach out if you have any questions or suggestions! 
+- Nome: Lucas Elias da Costa
+- LinkedIn: https://www.linkedin.com/in/lucaselias99/
+- GitHub: [https://github.com/LucasECosta](https://github.com/LucasECosta
 
 
