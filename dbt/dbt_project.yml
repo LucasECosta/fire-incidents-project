@@ -1,0 +1,13 @@
+name: 'fire_incidents_project'
+version: '1.0'
+config-version: 2
+
+profile: 'fire_incidents_profile'
+
+model-paths: ["models"]   
+target-path: "target"
+clean-targets: ["target", "dbt_modules"]
+
+models:
+  fire_incidents_project:
+    +materialized: view
