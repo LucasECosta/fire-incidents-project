@@ -131,6 +131,6 @@ You can also find this query saved in `/reports/report_fire_incidents_by_distric
 
 - Nome: Lucas Elias da Costa
 - LinkedIn: https://www.linkedin.com/in/lucaselias99/
-- GitHub: [https://github.com/LucasECosta](https://github.com/LucasECosta
+- GitHub: [https://github.com/LucasECosta]
 
 
